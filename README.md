@@ -1,5 +1,5 @@
 # Maritime-Weather-Forecasting
-Transforming Buoy Measurements from the NOAA using Data Cleaning and Transformation techniques to create a predictive weather forecast using Statistical Methods including GLMs (primarily linear), ANOVA analysis, Box-Cox transformations, and Prediction-Response analysis. Last edited: 12/15/2024
+Transforming Buoy Measurements from the NOAA using Data Cleaning and Transformation techniques to create a predictive weather forecast using Statistical Methods including GLMs (primarily linear), ANOVA analysis, Box-Cox transformations, and Prediction-Response analysis. Last edited: 12/15/2024, 4:09 AM
 
 ## LaTeX Code
 Folder containing LaTeX code, figures, and bibliography to generate the project report output file.
